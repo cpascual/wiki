@@ -27,7 +27,7 @@ list](http://download.nexusformat.org/doc/html/mailinglist.html).
 
 <!-- -->
 
-**Alba Synchrotron Light Facility, Spain**: [Alba](http://www.cells.es) uses NeXus with HDF5 backend as its main format for storing data on all its beamlines (although scan data may also be duplicated in other formats such as [SPEC](http://www.certif.com/spec_manual/user_1_4_1.html) for convenience). NeXus files are normally created by the [Sardana](http://sardana-controls.org) control system. Currently (2014) only NXscan (and recently NXtomo) compliant files are created in production, although introduction of other Application Definitions is being tested.  
+**Alba Synchrotron Light Facility, Spain**: [Alba](http://www.cells.es) uses NeXus with HDF5 backend as its main format for storing data on all its beamlines (although scan data may also be duplicated in other formats such as [SPEC](http://www.certif.com/spec_manual/user_1_4_1.html) for convenience). NeXus files are normally created by the [Sardana](http://sardana-controls.org) control system. Currently (2018) only NXscan (and recently NXtomo) compliant files are created in production.  
 
 <!-- -->
 
